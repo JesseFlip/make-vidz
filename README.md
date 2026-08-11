@@ -1,7 +1,9 @@
 # AI Anime Studio — Make Vidz
 
-An interactive walkthrough site that helps you build a "Director's Blueprint" prompt
-and walks you through generating a viral, anime-style short video with Gemini.
+The landing page is a single-screen infographic of the 4-step blueprint for generating
+a viral, anime-style short video with Gemini. From there you can jump into the
+interactive walkthrough (`#walkthrough`), which builds a "Director's Blueprint" prompt
+from your own topic and vibe.
 
 ## Stack
 
